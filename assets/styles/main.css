@@ -175,6 +175,7 @@ header .container .search-container .input-search input {
   border: none;
   outline: none;
   font-size: 15px;
+  background-color: var(--bg-color);
 }
 header .container .search-container .input-search input {
   color: var(--text-color);
